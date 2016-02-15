@@ -1,5 +1,5 @@
 
-#Linking Documents with the <script> Tag
+#Linking Documents with the 'script' Tag
 After this lesson, you'll be able to:
 + Save JavaScript code to a .js file
 + Use script tags to add Javascript scripts to an HTML doc
