@@ -1,6 +1,6 @@
 
-#Linking Documents with the script tag
-After the lesson, you'll be able to:
+#Linking Documents with the <script> Tag
+After this lesson, you'll be able to:
 + Save JavaScript code to a .js file
 + Use script tags to add Javascript scripts to an HTML doc
 + Understand the connection between HTML, CSS, and JS as discrete parts of the front end of a web page that work together
